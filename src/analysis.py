@@ -7,6 +7,8 @@ nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
 
+from dataProcessing import separateAndTokenize
+
 
 def countWords(tokens):
   '''

@@ -4,9 +4,6 @@ import pandas as pd
 import nltk
 nltk.download('vader_lexicon')
 
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-sid = SentimentIntensityAnalyzer()
-
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))

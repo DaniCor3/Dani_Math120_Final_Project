@@ -7,7 +7,7 @@ nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 sid = SentimentIntensityAnalyzer()
 
-from dataProcessing import separateAndTokenize
+from dataProcessing import separateAndTokenize # used in makeDuneData
 
 
 def countWords(tokens):

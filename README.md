@@ -8,6 +8,10 @@ This project involves analyzing Frank Herbert's _Dune_, using word frequency and
 
 The data for this project originally comes from this pdf: https://i.4pcdn.org/tg/1439541465764.pdf.
 
+### References
+
+Herbert, Frank. *Dune*. Ace Books, 2005.
+
 ## Google Colab Execution
 
 `Final_Project.ipynb` should run automatically without any problems.

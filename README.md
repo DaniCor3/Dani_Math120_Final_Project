@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves analyzing Frank Herbert's _Dune_, using word frequency and sentiment analysis to observe trends for each chapter. It will find the most common words per chapter, the most common words in the novel, and the changes in sentiment as the chapters progress. There will also be visualizations and organized data sets.
+This project involves analyzing Frank Herbert's *Dune*, using word frequency and sentiment analysis to observe trends for each chapter. It will find the most common words per chapter, the most common words in the novel, and the changes in sentiment as the chapters progress. There will also be visualizations and organized data sets.
 
 ## Dataset
 
@@ -60,3 +60,9 @@ Dani_Math120_Final_Project/
    ```
    jupyter notebook Final_Project.ipynb
    ```
+
+## Author
+
+Dani Corum
+
+Math Programming - Spring 2025

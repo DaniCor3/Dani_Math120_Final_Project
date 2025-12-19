@@ -17,7 +17,7 @@ Herbert, Frank. *Dune*. Ace Books, 2005.
 # ***FIXME: ADD WRITEUP FILE***
 
 ```
-python_final_project/
+Dani_Math120_Final_Project/
 ├── data_raw/               # Raw, unprocessed data files
 │   └── Dune.txt              # Original text of Dune
 ├── data/                   # Cleaned and processed data
@@ -42,6 +42,14 @@ python_final_project/
 ### Local Execution
 1. Clone this repository:
    ```
-   git clone
+   git clone https://github.com/DaniCor3/Dani_Math120_Final_Project.git
+   cd Dani_Math120_Final_Project
    ```
-2. 
+2. Install required packages (if needed):
+   ```
+   pip install regex pandas plotly nltk jupyter
+   ```
+4. Launch Jupyter Notebook:
+   ```
+   jupyter notebook Final_Project.ipynb
+   ```

@@ -12,11 +12,10 @@ The data for this project originally comes from this pdf: https://i.4pcdn.org/tg
 
 Herbert, Frank. *Dune*. Ace Books, 2005.
 
-## Google Colab Execution
-
-`Final_Project.ipynb` should run automatically without any problems.
-
 ## Folder Structure
+
+# ***FIXME: ADD WRITEUP FILE***
+
 ```
 python_final_project/
 ├── data_raw/               # Raw, unprocessed data files
@@ -32,3 +31,17 @@ python_final_project/
 │   └── Final_Project.ipynb   # Final analysis notebook
 └── README.md               # This file
 ```
+
+## Running the Notebook
+
+### Google Colab Execution
+1. Open [Google Colab](https://colab.research.google.com/)
+2. Upload `Final_Project.ipynb`
+3. Run the first two cells to set up the environment
+
+### Local Execution
+1. Clone this repository:
+   ```
+   git clone
+   ```
+2. 
